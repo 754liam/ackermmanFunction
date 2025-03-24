@@ -1,1 +1,2 @@
 # ackermmanFunction
+In this java project, I worked with recursive methodology to enable computation of the Ackermman function. Recursion is commonly used in traversion of binary trees, sorting algorithms, and many naturally recursive problems like in computing Fibonnaci sequences. Recusrive princaples are also commonly found in mathematics, such as in integration by parts or in recursive representations of series. 
